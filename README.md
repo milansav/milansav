@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Milan, I'm high school student who loves programming and various challenges
+My name is Milan, I'm high school student who loves programming and solving various challenges
 
 ## GitHub Stats
 <a href="https://github.com/milansav/milansav">
