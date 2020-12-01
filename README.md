@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-dureja&layout=compact&exclude_repo=WinHacks2020&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amilansav&layout=compact&exclude_repo=WinHacks2020&theme=tokyonight)
 
 <!--
 **milansav/milansav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
