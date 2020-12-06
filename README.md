@@ -2,7 +2,7 @@
 
 My name is Milan, I'm high school student who loves programming and solving various challenges
 </br></br>
-<b>I am back end developer</b></br>
+<b>I am software developer</b></br>
 <p>I know Java, C# & currently learning C++</p></br>
 
 ## GitHub Stats
