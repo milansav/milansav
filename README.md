@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Milan, I'm high school student who loves programming and solving various challenges
+My name is Milan, I'm high school student who loves low-level programming and solving various challenges
 </br></br>
-<b>I am software developer</b></br>
 <p>I know Java, C#, C++ and a bit of C</p></br>
+<p>I am currently working on my own low-level programming language</p></br>
 
 ## GitHub Stats
 <a href="https://github.com/milansav/milansav">
