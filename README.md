@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-My name is Milan, I'm high school student who loves low-level programming and solving various challenges
-</br></br>
-<p>I know Java, C#, C++ and a bit of C</p></br>
-<p>I am currently working on my own low-level programming language</p></br>
-
 ## GitHub Stats
 <a href="https://github.com/milansav/milansav">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milansav&theme=onedark" />
